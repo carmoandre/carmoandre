@@ -10,6 +10,9 @@
 -   😄 Pronouns: He/Him
 -   ⚡ Fun fact: I really think science and spirituality can be friends. After hours coding, I can discuss religion, astrology even take a tarot reading
 
+<br />
+<br />
+
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="60px" src="./assets/visual-studio-code.svg" />
@@ -44,6 +47,8 @@
 <img align="left" alt="Github" width="53px" src="./assets/github.svg" />
 <!--Github Icon by Roundicons .com on Iconscout-->
 
+<br />
+<br />
 <br />
 <br />
 <br />
