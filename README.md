@@ -11,7 +11,7 @@
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="60px" src="./assets/visual-studio-code.svg" />
-&emsp; &nbsp;
+
 <img align="left" alt="HTML5" width="40px" src="./assets/html5.svg" />
 <!--Html5 Icon by Maninder Kaur on Iconscout-->
 
