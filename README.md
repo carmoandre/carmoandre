@@ -41,3 +41,22 @@
 
 <img align="left" alt="Github" width="53px" src="./assets/github.svg" />
 <!--Github Icon by Roundicons .com on Iconscout-->
+
+<br />
+<br />
+<br />
+<br />
+
+<details>
+  <summary> ⚡  GitHub Stats</summary>
+<a  href="https://github.com/carmoandre">
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=carmoandre&theme=buefy&show_icons=true">
+</a>
+</details>
+<details>
+  <summary> ⚡  Most Used Languages</summary>
+
+<a  href="https://github.com/carmoandre">
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmoandre&theme=buefy&layout=compact">
+</a>
+</details>
