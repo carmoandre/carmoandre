@@ -1,5 +1,7 @@
 ## Welcome, take a sit and let's talk
 
+<img align="right" alt="GIF" src="./assets/5eKX.gif" width="500" height="300" />
+
 -   🔭 I’m currently working on complete my second university degree.
 -   🌱 I’m currently learning how to improve my full-stack development skills
 -   👯 I’m looking to collaborate on social matters using tech
