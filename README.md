@@ -53,16 +53,17 @@
 <br />
 
 ## Some stats:
+
 <details>
   <summary> ⚡  GitHub Stats</summary>
 <a  href="https://github.com/carmoandre">
-  <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=carmoandre&theme=buefy&show_icons=true">
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=carmoandre&theme=monokai&show_icons=true">
 </a>
 </details>
 <details>
   <summary> ⚡  Most Used Languages</summary>
 
 <a  href="https://github.com/carmoandre">
-  <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmoandre&theme=buefy&layout=compact">
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmoandre&theme=monokai&layout=compact">
 </a>
 </details>
