@@ -1,4 +1,4 @@
-## Welcome, take a sit and let's talk
+## Welcome, take a sit and let's talk!
 
 <img align="right" alt="GIF" src="./assets/5eKX.gif" width="500" height="300" />
 
@@ -52,7 +52,7 @@
 <br />
 <br />
 
-## Some stats
+## Some stats:
 <details>
   <summary> ⚡  GitHub Stats</summary>
 <a  href="https://github.com/carmoandre">
